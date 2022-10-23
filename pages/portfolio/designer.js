@@ -8,6 +8,8 @@ import Project from 'components/portfolio/projects'
 import Services from 'components/portfolio/services'
 import Tools from 'components/portfolio/tools'
 
+import Footer from "components/footer"
+
 
 export default function developerPortfolio()
 {
@@ -19,7 +21,7 @@ export default function developerPortfolio()
 
         <br></br>
 
-        <h2>Projects</h2>
+        <h2 className={styles.code}>Projects</h2>
         <br></br>
         <br></br>
 
@@ -29,9 +31,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, swastika is a fucking hoe"
+                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
             />
             </div>
 
@@ -40,9 +42,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, swastika is a fucking hoe"
+                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
             />
             </div>
 
@@ -51,9 +53,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, swastika is a fucking hoe"
+                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
             />
             </div>
         </div>
@@ -63,7 +65,7 @@ export default function developerPortfolio()
         <br></br>
 
 
-        <h2> What else can I do</h2>
+        <h2 className={styles.code}> What else can I do</h2>
         <br></br>
         <br></br>
         <div>
@@ -89,28 +91,29 @@ export default function developerPortfolio()
         <br></br>
 
 
-        <h2> Tools & Technologies</h2>
+        <h2 className={styles.code}> Tools & Technologies</h2>
         <br></br>
         <br></br>
         <div>
             <div className={styles.row}>
                 <Tools
-                    toolTittle="blah"
-                    tool1="on thursday"
-                    tool2="i only love her"
-                    tool3="nigga"
+                    toolTittle="Designing"
+                    tool1="Adobe Photoshop , Illustrator, Xd"
+                    tool2="Figma"
+                /> 
+
+                <Tools
+                    toolTittle="Research & Data Analytics"
+                    tool1="Microsoft Office | LibreOffice | Sheets"
+                    tool2="Notion | Zapier | Todoist"
                 /> 
             </div>
 
             <div className={styles.row}>
-                <Tools
-                    toolTittle="blah"
-                    tool1="on thursday"
-                    tool2="i only love her"
-                    tool3="nigga"
-                /> 
+                
             </div>
           </div>
+          <Footer />
 
 </>
 

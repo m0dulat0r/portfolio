@@ -1,5 +1,5 @@
 .container {
-  padding: 0 2rem;
+  padding: 0 16rem;
 }
 
 .main {
@@ -19,6 +19,9 @@
   border-top: 1px solid #eaeaea;
   justify-content: center;
   align-items: center;
+  position: relative;
+  left: 0;
+  margin-bottom: 0rem;
 }
 
 .footer a {
@@ -26,6 +29,7 @@
   justify-content: center;
   align-items: center;
   flex-grow: 1;
+  color:rgb(161, 155, 155);
 }
 
 .title a {
@@ -41,20 +45,23 @@
 
 .title {
   margin: 0;
-  line-height: 3;
+  line-height: 1.15;
   font-size: 4rem;
+  font-weight: 400;
 }
 
 .titleh2{
   margin: 0;
   line-height: 1.15;
   font-size: 2.5rem;
+  font-weight: 400;
 }
 
 .titleh3{
   margin: 0;
   line-height: 1.15;
   font-size: 1.5rem;
+  font-weight: 400;
 }
 
 .title,
@@ -95,8 +102,12 @@
   display: grid;
   align-items: center;
   justify-content: center;
-  flex-wrap: wrap;
   max-width: 700px;
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .card {
@@ -110,6 +121,7 @@
   transition: color 0.15s ease, border-color 0.15s ease;
   height: 200px;
   width: 250px;
+  font-weight: 400;
 }
 
 .card:hover,
@@ -121,12 +133,13 @@
 
 .card h2 {
   margin: 0 0 1rem 0;
-  font-size: 1.5rem;
+  font-size: 1.25rem;
+  font-weight: 400;
 }
 
 .card p {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 1rem;
   line-height: 1.5;
 }
 
@@ -153,6 +166,7 @@
 .card2 h2 {
   margin: 0 0 1rem 0;
   font-size: 1.5rem;
+  font-weight: 400;
 }
 
 .card2 p {
@@ -170,7 +184,7 @@
   border: 0.5px solid #eaeaea;
   border-radius: 10px;
   transition: color 0.15s ease, border-color 0.15s ease;
-  height: 200px;
+  height: 150px;
   width: 800px;
 }
 
@@ -183,12 +197,13 @@
 
 .card3 h2 {
   margin: 0 0 1rem 0;
-  font-size: 1.5rem;
+  font-size: 1rem;
+  font-weight: 400;
 }
 
 .card3 p {
   margin: 0;
-  font-size: 1.25rem;
+  font-size: 0.8 rem;
   line-height: 1.5;
 }
 

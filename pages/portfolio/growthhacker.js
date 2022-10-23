@@ -8,6 +8,8 @@ import Project from 'components/portfolio/projects'
 import Services from 'components/portfolio/services'
 import Tools from 'components/portfolio/tools'
 
+import Footer from "components/footer"
+
 
 export default function developerPortfolio()
 {
@@ -19,7 +21,7 @@ export default function developerPortfolio()
 
         <br></br>
 
-        <h2>Projects</h2>
+        <h2 className={styles.code}>Projects</h2>
         <br></br>
         <br></br>
 
@@ -29,9 +31,31 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, swastika is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, swastika is a fucking hoe"
+                longDetails1=" * sudo nano chiga po, swdsfsd is a fucking hoe"
+                longDetails2=" * sudo nano chiga po, ssdfsdfsdika is a fucking hoe"
+                longDetails3=" * sudo nano chiga po, ssdfewika is a fucking hoe"
+            />
+            </div>
+
+            <div className={styles.row}>
+            <Project 
+                link="abcd.com"
+                projectName="Project 1 " 
+                details= " details " 
+                longDetails1=" * sudo nano chiga po, sgdfgsa is a fucking hoe"
+                longDetails2=" * sudo nano chiga po, werwea is a fucking hoe"
+                longDetails3=" * sudo nano chiga po, swdsfgewika is a fucking hoe"
+            />
+            </div>
+
+            <div className={styles.row}>
+            <Project 
+                link="abcd.com"
+                projectName="Project 1 " 
+                details= " details " 
+                longDetails1=" * sudo nano chiga po, erwtika is a fucking hoe"
+                longDetails2=" * sudo nano chiga po, srwerka is a fucking hoe"
+                longDetails3=" * sudo nano chiga po, swawerwea is a fucking hoe"
             />
             </div>
         </div>
@@ -41,48 +65,79 @@ export default function developerPortfolio()
         <br></br>
 
 
-        <h2> What else can I do</h2>
+        <h2 className={styles.code}> What else can I do</h2>
         <br></br>
         <br></br>
         <div>
             <div className={styles.row}>
+
                 <Services
-                    Service="Service" 
-                    Point1="p1" 
-                    Point2="p2"
-                    Point3="p3"
+                    Service="Growth Hacking" 
+                    Point1="Business Development" 
+                    Point2="Social Media"
+                    Point3="Strategies"
                 />
 
+                <Services
+                    Service="Search Engine" 
+                    Point1="SEO Optimization" 
+                    Point2="SEM Optimization"
+                />
+
+                <Services
+                    Service="Pay Per Click" 
+                    Point1="Advertisements" 
+                    Point2="Keyword Research"
+                    Point3="Competitiors Analysis"
+                />
+
+                <Services
+                    Service="Content Marketing" 
+                    Point1="Blog posts" 
+                    Point2="Case Studies"
+                    Point3="How-To Guides"
+                />
+
+                <Services
+                    Service="Re-Branding" 
+                    Point1="Brand Mapping" 
+                    Point2="Creative Research"
+                    Point3="Redesign & Revalue"
+                />
             </div>
-          </div>
+            <div className={styles.row}>
+                
+            </div> 
+        </div>
 
         <br></br>
         <br></br>
 
 
-        <h2> Tools & Technologies</h2>
+        <h2 className={styles.code}> Tools & Technologies</h2>
         <br></br>
         <br></br>
         <div>
-            <div className={styles.row}>
-                
+            <div className={styles.row}> 
                 <Tools
-                    toolTittle="blah"
+                    toolTittle="Data Handling"
                     tool1="on thursday"
                     tool2="i only love her"
                     tool3="nigga"
                 />
-                
+
+                <Tools
+                    toolTittle="Research"
+                    tool1="on thursday"
+                    tool2="i only love her"
+                    tool3="nigga"
+                />
             </div>
 
-            <div className={styles.row}>
-              
-            </div>
-
-            <div className={styles.row}>
-              
-            </div>
+           
           </div>
+
+          <Footer />
 
 </>
 
