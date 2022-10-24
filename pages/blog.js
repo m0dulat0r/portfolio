@@ -81,27 +81,23 @@ export default function Blog()
 
       <BlogPost
         title = "My recent interest in being a civil servant"
+        text= "What a fun mental breakdown"
+        href= '/blog/2022/upsc'
+        info='Sat Sept 22, 2022 · 172 words · 1 minutes'
+      />
+
+      <BlogPost
+        title = "Travelling: Kasol Trip"
         text= "What a sick joke"
         href= '/blog/2022/upsc'
         info='Sat Sept 22, 2022 · 172 words · 1 minutes'
       />
 
       <BlogPost
-        title = "Travelling"
+        title = "Travelling: Kasol Trip"
         text= "What a sick joke"
         href= '/blog/2022/upsc'
         info='Sat Sept 22, 2022 · 172 words · 1 minutes'
-      />
-
-      <BlogPost
-        title = "blog?"
-        text= "No one can compare to big daddy Aman, he's not small. He's just smaller. His personality makes up for it tho."
-        link=''
-      />
-      <BlogPost
-        title = "blog again?"
-        text= "No one can compare to big daddy Aman, he's not small. He's just smaller. His personality makes up for it tho."
-        link=''
       />
 
     </main>
