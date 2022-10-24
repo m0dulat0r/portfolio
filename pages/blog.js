@@ -89,15 +89,22 @@ export default function Blog()
       <BlogPost
         title = "Travelling: Kasol Trip"
         text= "What a sick joke"
-        href= '/blog/2022/upsc'
+        href= '/blog/2022/travelling'
         info='Sat Sept 22, 2022 · 172 words · 1 minutes'
       />
 
       <BlogPost
-        title = "Travelling: Kasol Trip"
-        text= "What a sick joke"
-        href= '/blog/2022/upsc'
-        info='Sat Sept 22, 2022 · 172 words · 1 minutes'
+        title = "Losing a year of life"
+        text= "Happy birthday spams"
+        href= '/blog/2022/hbdagain'
+        info='2022 · 172 words · 1 minutes'
+      />
+
+      <BlogPost
+        title = "Losing a year of life"
+        text= "Happy birthday spams"
+        href= '/blog/2022/hbdagain'
+        info='2022 · 172 words · 1 minutes'
       />
 
     </main>
