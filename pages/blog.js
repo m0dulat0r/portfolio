@@ -30,29 +30,67 @@ export default function Blog()
     <BlogPost 
                     title = "Discovering NextJS"
                     text= "A framework for a framework. lol."
-                    href= '/blog/blog2'
+                    link= '/blog/blog2'
                 />
 
     <BlogPost 
                 title = "How Lifting weights saved my life?"
                 text= " Conquering mind and chasing excellency through physical pain"
-                href= '/blog/blog4'
+                link= '/blog/blog4'
               />
 
 <br></br>
 <br></br>
     <h2 className="font-bold text-xl justify-center"> All Blogs</h2>
     <br></br>
+      
+      <BlogPost
+        title = "Dev Rant: TailWindCSS"
+        text= "I mean is it too hard to add a install script?"
+        link='/blog/2022/TailWindCSSRant'
+        info='Mon Oct 24, 2022 · 172 words · 1 minutes'
+      />
 
       <BlogPost
-        title = "How Lifting weights destroyed my life?"
-        text= " Chasing my genetic potential through physical pain"
-        href= '/blog/blog4'
-      />
+        title = "College Fest: ResoNanz"
+        text= " My rant for fests"
+        href= '/blog/2022/resonanz'
+        info='Fri Oct 21, 2022 · 172 words · 1 minutes'
+      />  
+
       <BlogPost
-        title = "My first love"
-        text= "It was just yesterday"
-        link=''
+        title = "Discovering NextJS"
+        text= "A framework for a framework. lol, what a small world."
+        href= '/blog/2022/nextjs'
+        info='Sat Oct 22, 2022 · 172 words · 1 minutes'
+      />
+
+      <BlogPost
+        title = "How lifting destroyed my life"
+        text= "Seriously, how can this be a vice"
+        href= '/blog/2022/liftingruinedmylife'
+        info='Sat Sept 22, 2022 · 172 words · 1 minutes'
+      />
+
+      <BlogPost
+        title = "CGPA Reveal"
+        text= "what did I just open up"
+        href= '/blog/2022/cgpareveal'
+        info='Sat Sept 22, 2022 · 172 words · 1 minutes'
+      />
+
+      <BlogPost
+        title = "My recent interest in being a civil servant"
+        text= "What a sick joke"
+        href= '/blog/2022/upsc'
+        info='Sat Sept 22, 2022 · 172 words · 1 minutes'
+      />
+
+      <BlogPost
+        title = "Travelling"
+        text= "What a sick joke"
+        href= '/blog/2022/upsc'
+        info='Sat Sept 22, 2022 · 172 words · 1 minutes'
       />
 
       <BlogPost

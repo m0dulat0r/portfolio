@@ -105,14 +105,14 @@ export default function Home() {
             <BlogPost 
               title = "Discovering NextJS"
               text= "A framework for a framework. lol."
-              href= '/blog/2022/nextjs'
+              link= '/blog/2022/nextjs'
               info="Fri Sep 7, 2022 · 250 words · 2 min"
               />
 
             <BlogPost 
               title = "How Lifting weights saved my life?"
               text= " Conquering mind and chasing excellency through physical pain"
-              href= '/blog/2021/liftingsavedmylife'
+              link= '/blog/2021/liftingsavedmylife'
               info="Sun Dec 4, 2021 · 172 words · 1 min"
               />
 
