@@ -39,11 +39,6 @@
       "static/chunks/webpack.js",
       "static/chunks/main.js",
       "static/chunks/pages/portfolio/designer.js"
-    ],
-    "/portfolio/developer": [
-      "static/chunks/webpack.js",
-      "static/chunks/main.js",
-      "static/chunks/pages/portfolio/developer.js"
     ]
   },
   "ampFirstPages": []
