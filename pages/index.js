@@ -87,12 +87,12 @@ export default function Home() {
           <br></br><br></br>
           
           <div>
-            <h2 className="font-bold text-xl justify-center">Blog Articles </h2> 
+            <h2 className="font-bold text-xl justify-center">Blog Posts </h2> 
           </div>
 
             <p className="text-gray-600 dark:text-gray-400 mb-16">
                 Check out my blogs, showing popular ones below.
-              </p>
+            </p>
 
           <div>
             <BlogPost 
@@ -117,7 +117,26 @@ export default function Home() {
               />
 
             <p className="back-600 dark:text-gray-400 mb-16">Read all of my <u className="gray"><Link href="blog">blogs</Link></u></p>
+            </div>
+
+            <div>
+            <h2 className="font-bold text-xl justify-center">Articles </h2> 
+            </div>
+
+            <p className="text-gray-600 dark:text-gray-400 mb-16">
+                Check out my articles, showing my favourite ones below.
+              </p>
+
+          <div>
+            <BlogPost 
+              title = "How to Dual Boot Linux as daily driver"
+              text= ""
+              link= '/articles/linux'
+              info="Mon May 2, 2022 · 172 words · 1 minutes"
+              />
+            <p className="back-600 dark:text-gray-400 mb-16">Read all of my <u className="gray"><Link href="articles">articles</Link></u></p>
           </div>
+
       </main>
     <Footer />
   </div>

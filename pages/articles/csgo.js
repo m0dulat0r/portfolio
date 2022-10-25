@@ -6,10 +6,10 @@ import Info from 'components/blogposts/info'
 
 export default function BlogEntry({title, text}){
 
-    return(
+return(
 <>    
         <Heading
-            title= "Time Management like A-man"
+            title= "Configuring CSGO Congig Files"
         />
 
         <Info
