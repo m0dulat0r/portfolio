@@ -129,14 +129,7 @@ export default function Home() {
 
             <BlogPost 
               title = "How to Dual Boot Linux as daily driver"
-              text= ""
-              link= '/articles/linux'
-              info="Mon May 2, 2022 · 172 words · 1 minutes"
-              />
-
-            <BlogPost 
-              title = "How to Dual Boot Linux as daily driver"
-              text= ""
+              text= "/blog/2022/duallinux"
               link= '/articles/linux'
               info="Mon May 2, 2022 · 172 words · 1 minutes"
               />
