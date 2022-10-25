@@ -31,9 +31,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, swdsfsd is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, ssdfsdfsdika is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, ssdfewika is a fucking hoe"
+                longDetails1=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                longDetails2=" * Proident commodo sunt mollit enim in laborum incididunt velit in."
+                longDetails3=" * Consequat incididunt sunt labore enim."
             />
             </div>
 
@@ -42,9 +42,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, sgdfgsa is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, werwea is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, swdsfgewika is a fucking hoe"
+                longDetails1=" * Ex do cupidatat nisi qui occaecat."
+                longDetails2=" * Anim cillum commodo in fugiat qui sunt dolore minim sint ut est irure laborum."
+                longDetails3=" * Irure et ullamco cillum proident sunt proident voluptate sint sit ullamco fugiat."
             />
             </div>
 
@@ -53,9 +53,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, erwtika is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, srwerka is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, swawerwea is a fucking hoe"
+                longDetails1=" * Deserunt proident nisi reprehenderit cupidatat."
+                longDetails2=" * Lorem ullamco ad quis aute irure et tempor sit culpa et aliquip enim voluptate reprehenderit."
+                longDetails3=" * Tempor nisi eu elit fugiat nulla labore culpa qui incididunt proident elit fugiat consequat elit."
             />
             </div>
         </div>

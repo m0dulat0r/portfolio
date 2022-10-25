@@ -30,9 +30,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails1=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam."
+                longDetails2=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                longDetails3=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
             />
             </div>
             <div className={styles.row}>
@@ -40,9 +40,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails1=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                longDetails2=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                longDetails3=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
             />
             </div>
 
@@ -51,9 +51,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails1=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                longDetails2=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                longDetails3=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
             />
             </div>
 

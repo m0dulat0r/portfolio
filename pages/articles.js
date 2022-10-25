@@ -31,11 +31,38 @@ export default function Blog()
       
     <BlogPost 
                 title = "Setting up CSGO"
-                text= "For you to RUSH B"
+                text= "For you to RUSH B."
                 link= '/articles/csgo'
                 info='Fri Oct 21, 2022 · 172 words · 1 minutes'
-
               />
+
+    <BlogPost 
+                title = "How to custom theme GRUB menu?"
+                text= "For that Hackerman boot-up sequence."
+                link= '/articles/grubtheme'
+                info='Fri Oct 21, 2022 · 172 words · 1 minutes'
+              />
+
+    <BlogPost 
+                title = "How to Dual Boot Linux as daily driver?"
+                text= "Be ascended while still being a Window Peasant."
+                link= '/articles/duallinux'
+                info='Fri Oct 21, 2022 · 172 words · 1 minutes'
+              />
+
+    <BlogPost 
+                title = "How to Penta Boo like a Giga Chad?"
+                text= "Like a Giga Chad, YES."
+                link= '/articles/pentaboot'
+                info='Fri Oct 21, 2022 · 172 words · 1 minutes'
+              />
+    <BlogPost 
+                title = "How to Create a Pre Loader in NextJS"
+                text= "Visual sexiness"
+                link= '/articles/pentaboot'
+                info='Fri Oct 21, 2022 · 172 words · 1 minutes'
+              />
+
 
     </main>
 <Footer />

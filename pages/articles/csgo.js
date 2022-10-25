@@ -9,7 +9,7 @@ export default function BlogEntry({title, text}){
 return(
 <>    
         <Heading
-            title= "Configuring CSGO Congig Files"
+            title= "Configuring CSGO Config Files"
         />
 
         <Info
@@ -21,11 +21,25 @@ return(
         
         <br></br> <br></br>
         <main className={styles.container}>
-        <p>
-        Time management is a crucial skill that set aparts people who can do it and people who can&apos;t do it in a wide spectrum. 
-        No pioneer has been ever a bad manager of his time, </p>
+        <p>CSGO has been always been a fascination for me. The mechanics, the gameplay & the RUSH B community is ❤️</p>
+        <p>Let me put out the Autoexec that helped me execute B Rushes with an KD ratio of 0.90 consistently for 3 years.</p> 
+        <p>To create the autoexec, follow the steps:</p>
+        <br></br>
+        <b>1.</b>
+        <p>Navigate to steam/common/Counter Strike Global Offensive/cfg & create a text file.</p>
+        <b>2.</b>
+        <p>Save that file as autoexec.cfg</p>
+
+
+
+ 
+
+
+
+
+
+
         </main>
-        
         <br></br><br></br><br></br><br></br>
         <Footer />
 </>

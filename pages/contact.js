@@ -21,6 +21,11 @@ export default function myGear() {
       <h3 className="font-bold text-5xl">Contact</h3>
       <br></br>
 
+      <p>I am open to work on innovative and creative projects.
+      </p>
+      <p>I can efficiently co-work in global time zones.</p>
+      <p>Fill the contact form to get a reply from me.</p>
+
     </div>
 
     <Footer />

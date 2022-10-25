@@ -21,10 +21,8 @@ export default function Home() {
           <br></br>
           <h2 className={styles.titleh2}> I am Aman</h2>
           <br></br>
-          <h2 className={styles.titleh3}> I am a Developer | Designer | Growth Hacker</h2>
-          <br></br>
-          I am a freelancer and open to work on creative digital products
-          <br></br>
+          <h2 className={styles.titleh2}> Welcome to my website 🎉</h2>
+
         </main>
 
       <main className={styles.main}>
@@ -37,8 +35,8 @@ export default function Home() {
                 </h1>
                 <h2 className="text-gray-700 dark:text-gray-200 mb-4">Developer | Designer | Growth Hacker</h2>
                 <p className="text-gray-600 dark:text-gray-400 mb-16">
-                  Developing a faster web, better brands & growth marketing strategies.<br></br>
-                  Freelancing and working out all day everyday.
+                  Developing faster web applications, creative brands & growth marketing.<br></br>
+                  Digital Nomad, XO fan & freelancer.
                 </p>
               </div>
               
@@ -128,6 +126,14 @@ export default function Home() {
               </p>
 
           <div>
+
+            <BlogPost 
+              title = "How to Dual Boot Linux as daily driver"
+              text= ""
+              link= '/articles/linux'
+              info="Mon May 2, 2022 · 172 words · 1 minutes"
+              />
+
             <BlogPost 
               title = "How to Dual Boot Linux as daily driver"
               text= ""

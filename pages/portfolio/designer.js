@@ -31,9 +31,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails1=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
+                longDetails2=" * sEu ipsum velit tempor proident."
+                longDetails3=" * Consectetur sunt reprehenderit fugiat voluptate occaecat deserunt."
             />
             </div>
 
@@ -42,9 +42,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails1=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
+                longDetails2=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
+                longDetails3=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
             />
             </div>
 
@@ -53,9 +53,9 @@ export default function developerPortfolio()
                 link="abcd.com"
                 projectName="Project 1 " 
                 details= " details " 
-                longDetails1=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails2=" * sudo nano chiga po, aman is a fucking hoe"
-                longDetails3=" * sudo nano chiga po, aman is a fucking hoe"
+                longDetails1=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
+                longDetails2=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
+                longDetails3=" * Exercitation elit tempor laboris eu amet aliquip elit reprehenderit sunt sunt eu sint et et."
             />
             </div>
         </div>
