@@ -24,16 +24,7 @@ export default function BlogEntry({title, text}){
         
         <br></br> <br></br>
         <main className={styles.container}>
-        <p>
-        Time management is a crucial skill that set aparts people who can do it and people who can&apos;t do it in a wide spectrum. 
-        No pioneer has been ever a bad manager of his time, </p>
-        <p>
-        There are some work related choices we often screw up. For me as a university student, I come across a lot of students with the indecisiveness.
-        They dip their toes in literally every pool they see. After all, why miss an opportunity?
-        Unfortunately, students often get wound up in less important tasks, events or commitments that hinder their devotion to more important
-        events and purposes they have for their career.
-        </p>
-        
+        <p>Lorem Ipsum</p>
         </main>
         
         <br></br><br></br><br></br><br></br>

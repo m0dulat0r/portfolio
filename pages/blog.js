@@ -24,7 +24,7 @@ export default function Blog()
     <BlogPost 
                 title = "Time Management Lately"
                 text= "Time you enjoy wasting is not time wasted."
-                link= '/blog/blog1'
+                link= '/blog/2022/timemanagement'
               />
 
     <BlogPost 

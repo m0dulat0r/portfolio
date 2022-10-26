@@ -24,9 +24,7 @@ export default function BlogEntry({title, text}){
         
         <br></br> <br></br>
         <main className={styles.container}>
-        <p>
-        Time management is a crucial skill that set aparts people who can do it and people who can&apos;t do it in a wide spectrum. 
-        No pioneer has been ever a bad manager of his time, </p>
+        <p></p>
         </main>
         
         <br></br><br></br><br></br><br></br>
