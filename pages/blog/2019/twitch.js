@@ -1,5 +1,4 @@
-import styles from '/styles/Home.module.css'
-import BlogPost from '/components/blogpost'
+wimport styles from '/styles/Home.module.css'
 import Footer from "components/footer"
 
 import Heading from 'components/blogposts/heading'

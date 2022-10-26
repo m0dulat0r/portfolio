@@ -16,11 +16,11 @@ export default function BlogEntry({title, text}){
         <main className={styles.container}>
             <p>&apos;&apos;The day you started lifting is the day you became forever small, because you will never be as big as you wanna be.&apos;&apos; - Dom Mazzetti
            </p>
-           <p>I can critique myself all day in the mirror, even when I haven&apos;t seen my back.</p>
+           <p>I wake up and I can critique myself all day in the mirror, even when I haven&apos;t even seen my legs, the </p>
 
            <br></br>
-           <p> I have made a visual marker of what I am right now, I don&apos;t like this. I feel disgusted when I am not consistent by my splits or I am not sleeping
-            on the time. Like why am I not sleeping on time, eating the meals, scrambling the eggs.
+           <p> I have made a visual marker of what I am right now, I don&apos;t like this. I feel disgusted when I am not consistent by my splits. 
+            Like why am I not sleeping on time, eating the meals, scrambling the eggs, hitting the coffee or watching Saket's Vlog.
            </p>
            <br></br>
            <p>

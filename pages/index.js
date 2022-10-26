@@ -21,7 +21,7 @@ export default function Home() {
           <br></br>
           <h2 className={styles.titleh2}> I am Aman</h2>
           <br></br>
-          <h2 className={styles.titleh2}> Welcome to my website 🎉</h2>
+          <h2 className={styles.titleh2}> 🚀❤️️🍰</h2>
 
         </main>
 
@@ -83,7 +83,7 @@ export default function Home() {
             </div>
 
           <br></br><br></br>
-          
+
           <div>
             <h2 className="font-bold text-xl justify-center">Blog Posts </h2> 
           </div>
