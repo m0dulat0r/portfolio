@@ -22,9 +22,7 @@ export default function Home() {
           <h2 className={styles.titleh2}> I am Aman</h2>
           <br></br>
           <h2 className={styles.titleh2}> 🚀❤️️🍰</h2>
-
         </main>
-
       <main className={styles.main}>
 
         <div className="flex flex-col justify-center items-start max-w-3xl border-gray-300 dark:border-gray-700 mx-auto pb-16">
@@ -36,17 +34,18 @@ export default function Home() {
                 <h2 className="text-gray-700 dark:text-gray-200 mb-4">Developer | Designer | Growth Hacker</h2>
                 <p className="text-gray-600 dark:text-gray-400 mb-16">
                   Developing faster web applications, creative brands & growth marketing.<br></br>
-                  Digital Nomad, XO fan & freelancer.
+                  Sophomore, Digital Nomad, Freelancer & dog dad.<br></br>
+                  I write articles & blogs.<br></br>
                 </p>
               </div>
-              
+
               <div>
                 <Image
                   alt="Aman Punia"
-                  height={176}
-                  width={176}
-                  src='/public/profile.jpg'
-                    />
+                  height={200}
+                  width={200}
+                  src="/profile.jpeg"
+                />
               </div>
             </div>
         </div>
@@ -54,7 +53,7 @@ export default function Home() {
         <div>
           <h2 className='font-bold text-xl justify-center'>Portfolio</h2>
         </div>
-        
+
           <p className="text-gray-600 dark:text-gray-400 mb-16">
               Check out my portfolio, skills & technologies!
           </p>
@@ -123,7 +122,7 @@ export default function Home() {
 
             <p className="text-gray-600 dark:text-gray-400 mb-16">
                 Check out my articles, showing my favourite ones below.
-              </p>
+            </p>
 
           <div>
 
@@ -133,7 +132,7 @@ export default function Home() {
               link= '/articles/linux'
               info="Mon May 2, 2022 · 172 words · 1 minutes"
               />
-            <p className="back-600 dark:text-gray-400 mb-16">Read all of my <u className="gray"><Link href="articles">articles</Link></u></p>
+            <p className="back-600 dark:text-gray-400 mb-16">Read all of my<u className="gray"><Link href="articles">articles</Link></u></p>
           </div>
 
       </main>

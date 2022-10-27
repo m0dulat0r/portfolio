@@ -136,7 +136,7 @@ export default function developerPortfolio()
                 <Tools
                     toolTittle="Cloud "
                     tool1="Language: JavaScript | GoLang | Python | C#"
-                    tool2="Technologies: AWS ECS, RDS, S3, CloudFront, Beanstalk, Lambda | GCP VPC, Cloud-Storage, CloudSDK "
+                    tool2="Technologies: AWS ECS, RDS, S3,Beanstalk, Lambda | GCP VPC, Cloud-Storage, CloudSDK "
                     tool3="Tools: Amazon Web Services | Google Cloud Platform"
                 /> 
 
