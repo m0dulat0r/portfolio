@@ -1,4 +1,4 @@
-wimport styles from '/styles/Home.module.css'
+import styles from '/styles/Home.module.css'
 import Footer from "components/footer"
 
 import Heading from 'components/blogposts/heading'
