@@ -28,10 +28,10 @@ export default function developerPortfolio()
         <div>
             <div className={styles.row}>
             <Project 
-                link="abcd.com"
-                projectName="Project 1 " 
-                details= " details " 
-                longDetails1=" * Tempor deserunt cillum occaecat velit fugiat sit sunt elit ex veniam"
+                link=""
+                projectName="AeroLeads " 
+                details= " Sales Intelligence SaaS Product " 
+                longDetails1=" * Created strategies for User Acquisition"
                 longDetails2=" * Proident commodo sunt mollit enim in laborum incididunt velit in."
                 longDetails3=" * Consequat incididunt sunt labore enim."
             />

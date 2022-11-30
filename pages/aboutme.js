@@ -35,9 +35,11 @@ export default function myGear() {
         </p>
         <br></br>
         <p> I quickly gained interest and tried to play around my PC, breaking down parts of it. Repairing them reading manuals which I used 
-          to pirate from school broadband, back in 2010 when internet was still a dream for many. It was the good 
+          to download from school broadband, back in 2010 when internet was still a dream for many. It was the good 
           old 1000kbps LAN those days, it used to take a whole period to get a PDF downloaded.
         </p>
+      
+
       </div>    
       <br></br>
       <br></br>
