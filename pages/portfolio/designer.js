@@ -21,6 +21,7 @@ export default function developerPortfolio()
 
         <br></br>
 
+        <div className={styles.main}>
         <h2 className={styles.code}>Projects</h2>
         <br></br>
         <br></br>
@@ -63,8 +64,9 @@ export default function developerPortfolio()
         
         <br></br>
         <br></br>
+        </div>
 
-
+        <div className={styles.main}>
         <h2 className={styles.code}> What else can I do</h2>
         <br></br>
         <br></br>
@@ -89,13 +91,13 @@ export default function developerPortfolio()
 
         <br></br>
         <br></br>
+        </div> 
 
-
+        <div className={styles.main}>
         <h2 className={styles.code}> Tools & Technologies</h2>
         <br></br>
         <br></br>
         <div>
-            <div className={styles.row}>
                 <Tools
                     toolTittle="Designing"
                     tool1="Adobe Photoshop , Illustrator, Xd"
@@ -108,10 +110,7 @@ export default function developerPortfolio()
                     tool2="Notion | Zapier | Todoist"
                 /> 
             </div>
-
-            <div className={styles.row}>
                 
-            </div>
           </div>
           <Footer />
 

@@ -9,11 +9,14 @@ import Footer from "components/footer"
 export default function Home() {
   return (
 <>
+
     <div className={styles.container}>
       <Head>
         <title>Aman Punia</title>
         <meta name="description" content="Portfolio Aman Punia" />
         <link rel="icon" href="/favicon.ico" />
+        <meta name="viewport" content="width=device-width" maximum-scale="1.5" />
+
       </Head>
 
       <main className={styles.main}>
@@ -34,7 +37,7 @@ export default function Home() {
                 <h2 className="text-gray-700 dark:text-gray-200 mb-4">Developer | Designer | Growth Hacker</h2>
                 <p className="text-gray-600 dark:text-gray-400 mb-16">
                   Developing faster web applications, creative brands & growth marketing.<br></br>
-                  Sophomore, Digital Nomad, Freelancer & dog dad.<br></br>
+                  Entreprenuer, Sophomore, Digital Nomad, Freelancer & dog dad.<br></br>
                   I write articles & blogs.<br></br>
                 </p>
               </div>
@@ -132,7 +135,7 @@ export default function Home() {
               link= '/articles/linux'
               info="Mon May 2, 2022 · 172 words · 1 minutes"
               />
-            <p className="back-600 dark:text-gray-400 mb-16">Read all of my<u className="gray"><Link href="articles">articles</Link></u></p>
+            <p className="back-600 dark:text-gray-400 mb-16">Read all of my <u className="gray"><Link href="articles">articles</Link></u></p>
           </div>
 
       </main>

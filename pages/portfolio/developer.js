@@ -20,6 +20,7 @@ export default function developerPortfolio()
 
         <br></br>
 
+        <div className={styles.main}>
         <h2 className={styles.code}>Projects</h2>
         <br></br>
         <br></br>
@@ -58,13 +59,14 @@ export default function developerPortfolio()
             </div>
 
         </div>
-
+        </div>
         
         <br></br>
         <br></br>
 
+        <div className={styles.main}>
 
-        <h2 className={styles.code}> What else can I do</h2>
+        <h2 className={styles.code}> My Skills</h2>
         <br></br>
         <br></br>
         <div>
@@ -107,10 +109,11 @@ export default function developerPortfolio()
                 
             </div>
           </div>
-
+        </div>
         <br></br>
         <br></br>
 
+        <div className={styles.main}>
 
         <h2 className={styles.code}> Tools & Technologies</h2>
         <br></br>
@@ -161,18 +164,7 @@ export default function developerPortfolio()
                     tool3="Tools: Hardhat | Ganache | Waffle | MetaMask"
                 /> 
             </div>
-
-            <div className={styles.row}>   
-                
-            </div>
-
-            <div className={styles.row}>
-              
-            </div>
-
-            <div className={styles.row}>
-              
-            </div>
+          </div>
           </div>
 
           <Footer />

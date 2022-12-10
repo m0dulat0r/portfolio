@@ -20,7 +20,7 @@ export default function developerPortfolio()
         />
 
         <br></br>
-
+        <div className={style.main}>
         <h2 className={styles.code}>Projects</h2>
         <br></br>
         <br></br>
@@ -59,13 +59,13 @@ export default function developerPortfolio()
             />
             </div>
         </div>
-
+        </div>
         
         <br></br>
         <br></br>
 
-
-        <h2 className={styles.code}> What else can I do</h2>
+        <div className={styles.main}>
+        <h2 className={styles.code}> My Skills</h2>
         <br></br>
         <br></br>
         <div>
@@ -112,8 +112,9 @@ export default function developerPortfolio()
 
         <br></br>
         <br></br>
+        </div>
 
-
+        <div className={styles.main}>
         <h2 className={styles.code}> Tools & Technologies</h2>
         <br></br>
         <br></br>
@@ -133,10 +134,9 @@ export default function developerPortfolio()
                     tool3="nigga"
                 />
             </div>
-
            
           </div>
-
+          </div>
           <Footer />
 
 </>
