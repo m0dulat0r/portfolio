@@ -19,7 +19,7 @@ export default function Home() {
 
       </Head>
 
-      <main className={styles.main}>
+      <main className={styles.preloader}>
           <h1 className={styles.title}> Hi</h1>
           <br></br>
           <h2 className={styles.titleh2}> I am Aman</h2>
