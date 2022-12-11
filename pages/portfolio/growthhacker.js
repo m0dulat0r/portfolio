@@ -20,7 +20,7 @@ export default function developerPortfolio()
         />
 
         <br></br>
-        <div className={style.main}>
+        <div className={styles.main}>
         <h2 className={styles.code}>Projects</h2>
         <br></br>
         <br></br>
