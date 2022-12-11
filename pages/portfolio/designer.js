@@ -22,7 +22,7 @@ export default function developerPortfolio()
         <br></br>
 
         <div className={styles.main}>
-        <h2 className={styles.code}>Projects</h2>
+        <h2 className={styles.code}>Projects and Experience</h2>
         <br></br>
         <br></br>
 
@@ -67,7 +67,7 @@ export default function developerPortfolio()
         </div>
 
         <div className={styles.main}>
-        <h2 className={styles.code}> What else can I do</h2>
+        <h2 className={styles.code}> My Skills</h2>
         <br></br>
         <br></br>
         <div>
